@@ -1,0 +1,23 @@
+# Qt build artifacts
+*.o
+*.obj
+moc_*.cpp
+moc_*.h
+ui_*.h
+*.moc
+moc_predefs.h
+Makefile
+.qmake.stash
+
+# Qt executables
+DesignWindow
+*.exe
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Temporary files
+*~
+*.swp
+*.swo
